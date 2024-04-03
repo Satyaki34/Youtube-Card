@@ -1,5 +1,4 @@
 function createCard(title, cName, views, monthsOld, duration, thumbnail) {
-  // Finish this function
   let viewStr
   if (views < 1000) {
       viewStr = views;
